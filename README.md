@@ -13,7 +13,7 @@ Ograniczenia dodajemy w zakładce ‘Ograniczenie dnia’ która znajduje się w
 
 - Baza -> Kadry i płace -> Kardy -> Ograniczenie dnia
 
-![](../images/Obraz1.png)
+![](Obraz1.png)
 
 Aby dodać nowe ograniczenie musimy kliknąć przycisk ‘Nowy (Ograniczenie dnia)’ .
 
