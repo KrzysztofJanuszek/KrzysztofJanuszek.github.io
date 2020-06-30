@@ -42,7 +42,7 @@ Zmiany ustalamy z poziomu Norm czasu pracy na pracowniku. Aby się tam dostać w
 
 ## Enova365 - Web
 W wersji webowej wszystko pozostaje bez zmian.
-![](Obraz8.png)
-![](Obraz9.png)
-![](Obraz7.png)
+![](Obraz8_1.png)
+![](Obraz9_1.png)
+![](Obraz7_1.png)
 ![](Obraz10.png)
