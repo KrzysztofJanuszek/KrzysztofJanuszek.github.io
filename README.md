@@ -45,3 +45,4 @@ W wersji webowej wszystko pozostaje bez zmian.
 ![](Obraz8.png)
 ![](Obraz9.png)
 ![](Obraz7.png)
+![](Obraz10.png)
